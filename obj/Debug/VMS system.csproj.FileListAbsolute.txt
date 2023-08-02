@@ -1,0 +1,82 @@
+C:\Users\200031\source\repos\VMS system\bin\Debug\VMS system.exe.config
+C:\Users\200031\source\repos\VMS system\bin\Debug\VMS system.exe
+C:\Users\200031\source\repos\VMS system\bin\Debug\VMS system.pdb
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.csproj.AssemblyReference.cache
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.csproj.SuggestedBindingRedirects.cache
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.Form1.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.Properties.Resources.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.csproj.GenerateResource.cache
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.csproj.CoreCompileInputs.cache
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.exe
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.pdb
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.homepage.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.ExitForm.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.User.frmuserregister.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.User.formmain.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.User.passchange.resources
+C:\Users\200031\source\repos\VMS system\bin\Debug\AForge.dll
+C:\Users\200031\source\repos\VMS system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\200031\source\repos\VMS system\bin\Debug\AForge.Video.dll
+C:\Users\200031\source\repos\VMS system\bin\Debug\AForge.xml
+C:\Users\200031\source\repos\VMS system\bin\Debug\AForge.Video.xml
+C:\Users\200031\source\repos\VMS system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS_system.Photofrm.resources
+C:\Users\200031\source\repos\VMS system\obj\Debug\VMS system.csproj.CopyComplete
+D:\VMS system\bin\Debug\VMS system.exe.config
+D:\VMS system\bin\Debug\VMS system.exe
+D:\VMS system\bin\Debug\VMS system.pdb
+D:\VMS system\bin\Debug\AForge.dll
+D:\VMS system\bin\Debug\AForge.Video.DirectShow.dll
+D:\VMS system\bin\Debug\AForge.Video.dll
+D:\VMS system\bin\Debug\AForge.xml
+D:\VMS system\bin\Debug\AForge.Video.xml
+D:\VMS system\bin\Debug\AForge.Video.DirectShow.xml
+D:\VMS system\obj\Debug\VMS system.csproj.AssemblyReference.cache
+D:\VMS system\obj\Debug\VMS system.csproj.SuggestedBindingRedirects.cache
+D:\VMS system\obj\Debug\VMS_system.ExitForm.resources
+D:\VMS system\obj\Debug\VMS_system.Form1.resources
+D:\VMS system\obj\Debug\VMS_system.homepage.resources
+D:\VMS system\obj\Debug\VMS_system.Photofrm.resources
+D:\VMS system\obj\Debug\VMS_system.Properties.Resources.resources
+D:\VMS system\obj\Debug\VMS_system.User.formmain.resources
+D:\VMS system\obj\Debug\VMS_system.User.frmuserregister.resources
+D:\VMS system\obj\Debug\VMS_system.User.passchange.resources
+D:\VMS system\obj\Debug\VMS system.csproj.GenerateResource.cache
+D:\VMS system\obj\Debug\VMS system.csproj.CoreCompileInputs.cache
+D:\VMS system\obj\Debug\VMS system.csproj.CopyComplete
+D:\VMS system\obj\Debug\VMS system.exe
+D:\VMS system\obj\Debug\VMS system.pdb
+D:\VMS system\obj\Debug\VMS_system.User.Showdata.resources
+D:\VMS system\bin\Debug\VMS system.exe.manifest
+D:\VMS system\bin\Debug\VMS system.application
+D:\VMS system\obj\Debug\VMS system.exe.manifest
+D:\VMS system\obj\Debug\VMS system.application
+D:\vms github uploading\bin\Debug\VMS system.exe.config
+D:\vms github uploading\bin\Debug\VMS system.exe.manifest
+D:\vms github uploading\bin\Debug\VMS system.application
+D:\vms github uploading\bin\Debug\VMS system.exe
+D:\vms github uploading\bin\Debug\AForge.dll
+D:\vms github uploading\bin\Debug\AForge.Video.DirectShow.dll
+D:\vms github uploading\bin\Debug\AForge.Video.dll
+D:\vms github uploading\bin\Debug\AForge.xml
+D:\vms github uploading\bin\Debug\AForge.Video.xml
+D:\vms github uploading\bin\Debug\AForge.Video.DirectShow.xml
+D:\vms github uploading\obj\Debug\VMS system.csproj.AssemblyReference.cache
+D:\vms github uploading\obj\Debug\VMS system.csproj.SuggestedBindingRedirects.cache
+D:\vms github uploading\obj\Debug\VMS_system.ExitForm.resources
+D:\vms github uploading\obj\Debug\VMS_system.Form1.resources
+D:\vms github uploading\obj\Debug\VMS_system.homepage.resources
+D:\vms github uploading\obj\Debug\VMS_system.Photofrm.resources
+D:\vms github uploading\obj\Debug\VMS_system.Properties.Resources.resources
+D:\vms github uploading\obj\Debug\VMS_system.User.formmain.resources
+D:\vms github uploading\obj\Debug\VMS_system.User.frmuserregister.resources
+D:\vms github uploading\obj\Debug\VMS_system.User.passchange.resources
+D:\vms github uploading\obj\Debug\VMS_system.User.Showdata.resources
+D:\vms github uploading\obj\Debug\VMS system.csproj.GenerateResource.cache
+D:\vms github uploading\obj\Debug\VMS system.csproj.CoreCompileInputs.cache
+D:\vms github uploading\obj\Debug\VMS system.exe.manifest
+D:\vms github uploading\obj\Debug\VMS system.application
+D:\vms github uploading\obj\Debug\VMS system.csproj.CopyComplete
+D:\vms github uploading\obj\Debug\VMS system.exe
+D:\vms github uploading\obj\Debug\VMS system.pdb
+D:\vms github uploading\bin\Debug\VMS system.pdb
